@@ -1,8 +1,5 @@
-# 📦 PC Parts Scraping & Dataset Suite
+# 📦 Meron-Scraper
 
-Um conjunto de scripts Python para realizar scraping, limpeza e organização de informações de hardware de computadores a partir do site **PCPartPicker**. Ideal para montar bancos de dados organizados para análise de mercado, consultas técnicas ou alimentar sistemas de recomendação.
-
----
 
 ## 📁 Estrutura
 
@@ -38,6 +35,7 @@ Script para limpar, organizar e padronizar os dados extraídos do **PCPartPicker
   - Renomeia chaves.
   - Converte tipos de dados.
   - Remove ou trata valores ausentes.
+  - Retira as informações que não serão utilizadas.
 - Salva os dados organizados no diretório `data/` com o sufixo `_clean.json`.
 ---
 
