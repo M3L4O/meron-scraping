@@ -26,12 +26,6 @@ Script para realizar scraping de especificações de componentes de PC no site *
 - Utiliza **SeleniumBase** e **BeautifulSoup** para controle de navegador e parsing de HTML.
 - Salva os dados no diretório `data/` em arquivos `.json`.
 
-### 📝 Como usar:
-```bash
-pip install seleniumbase beautifulsoup4 tqdm numpy
-python scraping_partpicker.py
-```
-
 ---
 
 ## 🧹 clear_data.py
@@ -45,14 +39,6 @@ Script para limpar, organizar e padronizar os dados extraídos do **PCPartPicker
   - Converte tipos de dados.
   - Remove ou trata valores ausentes.
 - Salva os dados organizados no diretório `data/` com o sufixo `_clean.json`.
-
-### 📝 Como usar:
-```bash
-python clear_data.py
-```
-
-> 📌 Obs: Os componentes a serem processados devem estar ativados no dicionário `components` dentro do script.
-
 ---
 
 ## 📊 Quantidade de Registros
