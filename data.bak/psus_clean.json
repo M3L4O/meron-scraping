@@ -1,0 +1,5498 @@
+[
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Core GM 80 Plus Gold, semi-modular",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Project 7",
+        "power":750,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Project 7",
+        "power":650,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Dark Power Pro P11 modular",
+        "power":750,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Dark Power Pro P11 modular",
+        "power":1200,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Dark Power Pro P11 modular",
+        "power":1000,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Dark Power Pro P11 modular",
+        "power":850,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 11 80 PLUS Bronze",
+        "power":300,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 11 80 PLUS Gold",
+        "power":500,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 11 80 PLUS Gold",
+        "power":400,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 11 80 PLUS Gold",
+        "power":600,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 11 80 PLUS Gold",
+        "power":700,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 11 CM 80 PLUS Gold",
+        "power":500,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 11 CM 80 PLUS Gold",
+        "power":400,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 11 CM 80 PLUS Gold",
+        "power":600,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 11 CM 80 PLUS Gold",
+        "power":700,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 11",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 11",
+        "power":1000,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"BitFenix",
+        "model":"BitFenix Formula 80 PLUS Gold",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"BitFenix",
+        "model":"BitFenix Formula 80 PLUS Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"BitFenix",
+        "model":"BitFenix Formula 80 PLUS Gold",
+        "power":450,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"BitFenix",
+        "model":"BitFenix Whisper M 80 PLUS Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"BitFenix",
+        "model":"BitFenix Whisper M 80 PLUS Gold",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"BitFenix",
+        "model":"BitFenix Whisper M 80 PLUS Gold",
+        "power":450,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"BitFenix",
+        "model":"BitFenix Whisper M 80 PLUS Gold",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Cooler Master",
+        "model":"Cooler Master MasterWatt",
+        "power":450,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CX450",
+        "power":450,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CX450M",
+        "power":450,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CX550",
+        "power":550,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM Series RM1000i",
+        "power":1000,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM Series RM650",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM Series RM750",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM Series RM850",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM Series RM850i",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM550x",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM750x",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMX Series RM1000x",
+        "power":1000,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMX Series RM750x",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMX Series RM850x",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMX Series RMX550",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMX Series RMX550x",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMX Series RMX650",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMX Series RMX650x",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMX Series RMX750",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMX Series RMX850",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair SF Series SF450 80 PLUS Gold SFX",
+        "power":450,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair TX550M",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair TX550M Series Modular",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair TX650M",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair TX650M Series Modular",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair TX750M",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair TX750M Series Modular",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair TX850M",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair TX850M Series Modular",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Vengeance Series V500",
+        "power":500,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Vengeance Series V550M",
+        "power":550,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar VTX",
+        "power":450,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 450B",
+        "power":450,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 500B",
+        "power":500,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 550 G3",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 650 G3",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA Supernova 750 G2L",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 750 G3",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 850 G2",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA G2",
+        "power":1600,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA G2",
+        "power":1300,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA G2",
+        "power":1000,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA G2",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA G2",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA G2",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA G3",
+        "power":1000,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA G3",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA P2",
+        "power":850,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA P2",
+        "power":1000,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA P2",
+        "power":750,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA P2 80 PLUS Platinum",
+        "power":650,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Enclave 80 PLUS Gold",
+        "power":500,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink SFX-250",
+        "power":250,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink SFX-350",
+        "power":350,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"PHANTEKS",
+        "model":"PHANTEKS AMP 80 PLUS Gold",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"PHANTEKS",
+        "model":"PHANTEKS AMP 80 PLUS Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Core GC 80 Plus Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Core GC 80 PLUS Gold",
+        "power":500,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Core GM 80 PLUS Gold",
+        "power":500,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic FOCUS 550 GOLD",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus GX 80 Plus Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus GX 80 Plus Gold",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus GX 80 Plus Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus GX 80 PLUS Gold",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus PX 80 Plus Platinum 750 Watt",
+        "power":750,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic P-Series, Fanless 80 PLUS Platinum",
+        "power":400,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic PRIME 650 GOLD",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic PRIME 750 W Platinum",
+        "power":750,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime PX 80 PLUS Platinum",
+        "power":650,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime Ultra 80 PLUS Platinum",
+        "power":650,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Snow Silent",
+        "power":1050,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST45SF V2.0 Strider Series SFX",
+        "power":450,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-SX500-LG v2.0 SFX-L 80 PLUS Gold",
+        "power":500,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-SX600-G Strider Gold Series",
+        "power":600,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-SX800-LTI SFX-L 80 PLUS Titanium",
+        "power":800,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Golden Green HX",
+        "power":450,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Golden Green HX",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex 80 PLUS Platinum, black",
+        "power":650,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex II",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex II",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex II",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex II",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex III 80 PLUS Gold",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex III 80 PLUS Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex III 80 PLUS Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex III 80 PLUS Gold",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex III ARGB 80 PLUS Gold",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex III ARGB 80 PLUS Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex III ARGB 80 PLUS Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex III ARGB 80 PLUS Gold",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Platinum King",
+        "power":650,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Platinum King",
+        "power":450,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Platinum King",
+        "power":550,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Aero Bronze 500W 80 PLUS Bronze",
+        "power":500,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Aero Bronze 550M 80 PLUS Bronze",
+        "power":550,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Aero Bronze 550W 80 PLUS Bronze",
+        "power":550,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Aero Bronze 600W 80 PLUS Bronze",
+        "power":600,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Aero Bronze 650M 80 PLUS Bronze",
+        "power":650,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Aero Bronze 650W 80 PLUS Bronze",
+        "power":650,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Aero Bronze 700W 80 PLUS Bronze",
+        "power":700,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Aero Bronze 750M 80 PLUS Bronze",
+        "power":750,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Aero Bronze 750W 80 PLUS Bronze",
+        "power":750,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Aero Bronze 850M 80 PLUS Bronze",
+        "power":850,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Aero Cylon 400W 80 PLUS",
+        "power":400,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Aero White 500 80 PLUS",
+        "power":500,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Aero White 550 80 PLUS",
+        "power":550,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Aero White 600 80 PLUS",
+        "power":600,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Aero White 650 80 PLUS",
+        "power":650,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Aero White 700 80 PLUS",
+        "power":700,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Cylon RGB 500W 80 PLUS",
+        "power":500,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Cylon RGB 600W 80 PLUS",
+        "power":600,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Cylon RGB 700W 80 PLUS",
+        "power":700,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Project 7",
+        "power":850,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Xpredator 400 80 PLUS Bronze",
+        "power":400,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Xpredator 500",
+        "power":500,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Xpredator 600",
+        "power":600,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Xpredator 700",
+        "power":700,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Xpredator 750M",
+        "power":750,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Aerocool",
+        "model":"Aerocool Xpredator Gold 650GM",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Akasa",
+        "model":"Akasa",
+        "power":90,
+        "rate":null
+    },
+    {
+        "manufacturer":"Akasa",
+        "model":"Akasa 80 Watt DC-DC-Wandlerplatine, 12 V",
+        "power":80,
+        "rate":null
+    },
+    {
+        "manufacturer":"Akasa",
+        "model":"Akasa externes f\u00fcr Mini-ITX Systeme 12V",
+        "power":84,
+        "rate":null
+    },
+    {
+        "manufacturer":"Akasa",
+        "model":"Akasa PD150-02K externes",
+        "power":150,
+        "rate":null
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec EAG Pro 550W 80 PLUS Gold",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec EAG Pro 650W 80 PLUS Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec EAG Pro 750W 80 PLUS Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec EDGE EDG550",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec EDGE EDG650",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec EDGE EDG750",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec High Current Gamer",
+        "power":520,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec High Current Gamer",
+        "power":620,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec High Current Gamer HCG-620M",
+        "power":620,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec High Current Gamer HCG-750M",
+        "power":750,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec High Current Gamer HCG-850M",
+        "power":850,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec High Current Gamer HCG650 80 PLUS Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec High Current Gamer HCG750 80 PLUS Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec High Current Gamer HCG850 80Plus Gold",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec High Current Pro HCP-1000 Platinum",
+        "power":1000,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec High Current Pro HCP-1300 Platinum",
+        "power":1300,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec High Current Pro HCP-850 Platinum",
+        "power":850,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec NE450M EC Semi Modular",
+        "power":450,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec NE550M EC Semi Modular",
+        "power":550,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec NE650M EC Semi Modular",
+        "power":650,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec True Power TP550C",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec True Power TP650C",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec True Power TP750C",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Antec",
+        "model":"Antec VP Strictly Power",
+        "power":450,
+        "rate":null
+    },
+    {
+        "manufacturer":"ASUS",
+        "model":"ASUS ROG Strix 1000G",
+        "power":1000,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"ASUS",
+        "model":"ASUS ROG Strix 550G 80 PLUS Gold",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"ASUS",
+        "model":"ASUS ROG Strix 650G 80 PLUS Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"ASUS",
+        "model":"ASUS ROG Strix 750G 80 PLUS Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"ASUS",
+        "model":"ASUS ROG Thor 80 PLUS Platinum",
+        "power":850,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"ASUS",
+        "model":"ASUS ROG Thor 80 PLUS Platinum",
+        "power":1200,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"ASUS",
+        "model":"ASUS TUF Gaming 650B 80 PLUS Bronze",
+        "power":650,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Dark Power 12",
+        "power":1000,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Dark Power 12",
+        "power":850,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Dark Power 12",
+        "power":750,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Dark Power Pro 12",
+        "power":1200,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Dark Power Pro 12",
+        "power":1500,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Dark Power Pro P11 modular",
+        "power":650,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Dark Power Pro P11 modular",
+        "power":550,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Power Zone",
+        "power":1000,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Power Zone",
+        "power":850,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Power Zone, 80 PLUS Bronze",
+        "power":650,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Power Zone, 80 PLUS Bronze",
+        "power":750,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 10",
+        "power":700,
+        "rate":"80 Plus Silver"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 10",
+        "power":600,
+        "rate":"80 Plus Silver"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 10",
+        "power":400,
+        "rate":"80 Plus Silver"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 10",
+        "power":350,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 10",
+        "power":300,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 10",
+        "power":500,
+        "rate":"80 Plus Silver"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 10 CM",
+        "power":700,
+        "rate":"80 Plus Silver"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 10 CM",
+        "power":600,
+        "rate":"80 Plus Silver"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 10 CM",
+        "power":400,
+        "rate":"80 Plus Silver"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 10 CM",
+        "power":500,
+        "rate":"80 Plus Silver"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 11 FM",
+        "power":1000,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 11 FM",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 11 FM",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 11 FM",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Pure Power 11 FM",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! SFX Power 2 80 PLUS Bronze",
+        "power":300,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! SFX Power 2 80 PLUS Bronze",
+        "power":400,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! SFX Power 3",
+        "power":300,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! SFX Power 3",
+        "power":450,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! SFX-L Power",
+        "power":600,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! SFX-L Power",
+        "power":500,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! SFX-L Power 80 PLUS Gold",
+        "power":500,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! SFX-L Power 80 PLUS Gold",
+        "power":600,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 10",
+        "power":700,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 10",
+        "power":600,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 10",
+        "power":500,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 10",
+        "power":400,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 10 CM",
+        "power":600,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 10 CM",
+        "power":700,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 10 CM",
+        "power":800,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 10 CM",
+        "power":500,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 11",
+        "power":850,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 11",
+        "power":1200,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 11",
+        "power":1000,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 11",
+        "power":750,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 11",
+        "power":650,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 11",
+        "power":550,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 11, 80 PLUS Gold",
+        "power":450,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 11, 80 PLUS Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 11, 80 PLUS Gold",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! Straight Power 11, 80 PLUS Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power 8",
+        "power":600,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power 8",
+        "power":400,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power 8",
+        "power":500,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power 9 80 PLUS Bronze",
+        "power":400,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power 9 80 PLUS Bronze",
+        "power":500,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power 9 80 PLUS Bronze",
+        "power":600,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power 9 80 PLUS Bronze",
+        "power":700,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power 9 CM",
+        "power":600,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power 9 CM",
+        "power":700,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power 9 CM",
+        "power":500,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power 9 CM",
+        "power":400,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power B8",
+        "power":300,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power B8",
+        "power":550,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power B8",
+        "power":450,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power B8",
+        "power":350,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power B9 80 PLUS Bronze",
+        "power":300,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power B9 80 PLUS Bronze",
+        "power":350,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power B9 80 PLUS Bronze",
+        "power":450,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! System Power B9 80 PLUS Bronze",
+        "power":600,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! TFX Power 2 80 PLUS Bronze",
+        "power":300,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! TFX Power 2 80 PLUS Gold",
+        "power":300,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! TFX Power 3",
+        "power":300,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"be quiet!",
+        "model":"be quiet! TFX Power 3",
+        "power":300,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"BitFenix",
+        "model":"BitFenix Formula 80 PLUS Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"BitFenix",
+        "model":"BitFenix Whisper M 80 PLUS Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec A-90 Serie GDP-550C 90 Plus Gold",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec A-90 Serie GDP-650C 90 Plus Gold",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec A-90 Serie GDP-750C 90 Plus Gold",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec CDP-085ITX 85 Watt AC-DC Adapter inkl. Wandlerplatine",
+        "power":85,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec CDP-120ITX 120 Watt AC-DC Adapter inkl. Wandlerplatine",
+        "power":120,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec CSN-550C SFX",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec CSN-650C SFX",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Force CPS-400S",
+        "power":400,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Force CPS-500S",
+        "power":500,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Force CPS-650S",
+        "power":650,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Force CPS-750S",
+        "power":750,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec IArena Serie GPA-350B8",
+        "power":350,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec IArena Serie GPA-350S8",
+        "power":350,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec IArena Serie GPA-400B8",
+        "power":400,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec IArena Serie GPA-400S8",
+        "power":400,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec IArena Serie GPA-450B8",
+        "power":450,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec IArena Serie GPA-450S8",
+        "power":450,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec IArena Serie GPA-500S8",
+        "power":500,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec IArena Serie GPB-300S",
+        "power":300,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec IArena Serie GPB-350S",
+        "power":350,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec IArena Serie GPB-400S",
+        "power":400,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec IArena Serie GPB-450S",
+        "power":450,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec IArena Serie GPB-500S",
+        "power":500,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec MRG-5800V redundantes 80 PLUS - 2x 800 Watt",
+        "power":800,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec MRG-6500P - 2x 500 Watt",
+        "power":500,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec MRT-5320G redundantes 80 PLUS Gold - 2x 320 Watt",
+        "power":320,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Navitas",
+        "power":1250,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Navitas 80 PLUS Gold",
+        "power":1000,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Navitas Serie GPM-450S",
+        "power":450,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Navitas Serie GPM-550S",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Navitas Serie GPM-650S",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Navitas Serie GPM-750S",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Power Smart 80 PLUS Gold",
+        "power":1250,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Power Smart 80 PLUS Gold",
+        "power":1450,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Power Smart 80 PLUS Gold",
+        "power":1350,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec PSF-400B 80 PLUS Bronze",
+        "power":400,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Smart Serie GPS-400A8",
+        "power":400,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Smart Serie GPS-500A8",
+        "power":500,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Smart Serie GPS-600A8",
+        "power":600,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Smart Serie GPS-700A8",
+        "power":700,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Smart Serie SFX-350BS",
+        "power":350,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Smart Serie SFX-450BS",
+        "power":450,
+        "rate":null
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Smart Serie SFX-500GD-C",
+        "power":500,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Chieftec",
+        "model":"Chieftec Smart Series TFX 250P 80 PLUS Bronze",
+        "power":250,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Cooler Master",
+        "model":"Cooler Master MasterWatt",
+        "power":550,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Cooler Master",
+        "model":"Cooler Master MasterWatt, 80 PLUS-Bronze",
+        "power":750,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Cooler Master",
+        "model":"Cooler Master MasterWatt, 80 PLUS-Bronze",
+        "power":650,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair AX1000 High Performance",
+        "power":1000,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair AX1500i Digital ATX Power Supply",
+        "power":1500,
+        "rate":"80 Plus Titanium"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair AX760i Digital ATX Power Supply",
+        "power":760,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair AX850 High Performance",
+        "power":850,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Builder Series CX450",
+        "power":450,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Builder Series CX450M Modular",
+        "power":450,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Builder Series CX500",
+        "power":500,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Builder Series CX550",
+        "power":550,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Builder Series CX550M Modular",
+        "power":550,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Builder Series CX600",
+        "power":600,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Builder Series CX650",
+        "power":650,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Builder Series CX650M Modular",
+        "power":650,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Builder Series CX750",
+        "power":750,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Builder Series CX750 Rev. 2",
+        "power":750,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Builder Series CX750M Modular",
+        "power":750,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Builder Series CX850M Modular",
+        "power":850,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CS-M Series CS550M Modular",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CS-M Series CS650M Modular",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CS-M Series CS750M Modular",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CS-M Series CS850M Modular",
+        "power":850,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CV Series CV450",
+        "power":450,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CV Series CV550",
+        "power":550,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CV Series CV650",
+        "power":650,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CV Series CV650 Dual EPS",
+        "power":650,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CX550F RGB",
+        "power":550,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CX550F RGB",
+        "power":550,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CX550M",
+        "power":550,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CX650",
+        "power":650,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CX650F RGB",
+        "power":650,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CX650F RGB",
+        "power":650,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CX650M",
+        "power":650,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CX750",
+        "power":750,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CX750F RGB",
+        "power":750,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CX750F RGB",
+        "power":750,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CX750M",
+        "power":750,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair CX850M",
+        "power":850,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair HX1000",
+        "power":1000,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair HX1000 High Performance",
+        "power":1000,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair HX1000i High Performance",
+        "power":1000,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair HX1000i High-Performance ATX Power Supply",
+        "power":1000,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair HX1200 High Performance",
+        "power":1200,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair HX1200i High Performance",
+        "power":1200,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair HX750",
+        "power":750,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair HX750 High Performance",
+        "power":750,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair HX750i High Performance",
+        "power":750,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair HX750i High-Performance ATX Power Supply",
+        "power":750,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair HX850",
+        "power":850,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair HX850 High Performance",
+        "power":850,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair HX850i High Performance",
+        "power":850,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair HX850i High-Performance ATX Power Supply",
+        "power":850,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair HXi Series HX1000i",
+        "power":1000,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair HXi Series HX1500i",
+        "power":1500,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Professional Platinum Series AX1200i",
+        "power":1200,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Professional Platinum Series AX1500i",
+        "power":1500,
+        "rate":"80 Plus Titanium"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Professional Platinum Series AX1600i",
+        "power":1600,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Professional Platinum Series AX760",
+        "power":760,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Professional Platinum Series AX860",
+        "power":860,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Professional Platinum Series AX860I",
+        "power":860,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM Series RM650i",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM Series RM750 (2021)",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM Series RM750i",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM Series RM850 (2021)",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM1000",
+        "power":1000,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM1000x",
+        "power":1000,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM650i",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM650x",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM850i",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM850x",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RM850x",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMe Series RM750e",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMX Series (2021) RM1000x",
+        "power":1000,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMX Series (2021) RM550x",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMX Series (2021) RM650x",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMX Series (2021) RM750x",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMX Series 2018 RMX750 - white",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMX Series 2018 RMX850",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMX Series RMX750 - white",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair RMX Series RMX850",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair SF Series SF450 80 PLUS Platinum SFX",
+        "power":450,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair SF Series SF600 80 PLUS Gold SFX",
+        "power":600,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair SF Series SF600 80 PLUS Platinum SFX",
+        "power":600,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair SF Series SF750 80 PLUS Platinum SFX",
+        "power":750,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair SF450",
+        "power":450,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair SF600",
+        "power":600,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair Vengeance Series V650M",
+        "power":650,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair VS Series VS350",
+        "power":350,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair VS Series VS450",
+        "power":450,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair VS Series VS450",
+        "power":450,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair VS Series VS550",
+        "power":550,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair VS Series VS550",
+        "power":550,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair VS Series VS650",
+        "power":650,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair VS Series VS650",
+        "power":650,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair VS400",
+        "power":400,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair VS500",
+        "power":500,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Corsair",
+        "model":"Corsair VS600",
+        "power":600,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar CMD 500 digitales",
+        "power":500,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar CMD 600 digitales",
+        "power":600,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar GX 1050 V3",
+        "power":1050,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar GX 600 V3",
+        "power":600,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar GX 800 V3",
+        "power":800,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar GX-F",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar GX-F",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar GX-F",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar GX-S",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar GX-S",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar GX-S",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar GX-S",
+        "power":450,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar LX500",
+        "power":500,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar LX600",
+        "power":600,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar STX",
+        "power":750,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar STX",
+        "power":550,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar STX",
+        "power":650,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar STX",
+        "power":450,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar STX",
+        "power":350,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar VTX",
+        "power":700,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar VTX",
+        "power":600,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar VTX",
+        "power":500,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Cougar",
+        "model":"Cougar VTX",
+        "power":400,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Enermax",
+        "model":"Enermax Digifanless digitales",
+        "power":550,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Enermax",
+        "model":"Enermax Maxpro",
+        "power":500,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Enermax",
+        "model":"Enermax Platimax",
+        "power":750,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Enermax",
+        "model":"Enermax Platimax",
+        "power":1000,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Enermax",
+        "model":"Enermax Platimax",
+        "power":1700,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Enermax",
+        "model":"Enermax Platimax",
+        "power":850,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Enermax",
+        "model":"Enermax Platimax D.F.",
+        "power":600,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Enermax",
+        "model":"Enermax Platimax D.F. 80 PLUS Platin",
+        "power":500,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Enermax",
+        "model":"Enermax Revolution87+",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA",
+        "power":430,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 1000GQ",
+        "power":1000,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 400 N1",
+        "power":400,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 430 W1",
+        "power":430,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 450 B3",
+        "power":450,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 450 BT",
+        "power":450,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 450 BV",
+        "power":450,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 500 B1",
+        "power":500,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 500 BQ",
+        "power":500,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 500 BV",
+        "power":500,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 500 W1",
+        "power":500,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 550 B3",
+        "power":550,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 550 N1",
+        "power":550,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 600 B1",
+        "power":600,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 600 BQ",
+        "power":600,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 600 W1",
+        "power":600,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 650 B3",
+        "power":650,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 650 BQ",
+        "power":650,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 650 GQ",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 650 N1",
+        "power":650,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 700 B1",
+        "power":700,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 700B",
+        "power":700,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 750 B3",
+        "power":750,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 750 GQ",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 750 N1",
+        "power":750,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 850 B3",
+        "power":850,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 850 BQ",
+        "power":850,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA 850 GQ",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA B3",
+        "power":850,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA B3",
+        "power":750,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA B3",
+        "power":650,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA B3",
+        "power":550,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA B3",
+        "power":450,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA BQ",
+        "power":850,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA BQ",
+        "power":750,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA BQ",
+        "power":650,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA BQ",
+        "power":600,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA BQ",
+        "power":500,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 1000 G2",
+        "power":1000,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 1000 P2",
+        "power":1000,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 1000 PS",
+        "power":1000,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 1000 T2",
+        "power":1000,
+        "rate":"80 Plus Titanium"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 1050 GS",
+        "power":1050,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 1200 P2",
+        "power":1200,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 1300 G2",
+        "power":1300,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 1600 G2",
+        "power":1600,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 1600 P2",
+        "power":1600,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 1600 T2",
+        "power":1600,
+        "rate":"80 Plus Titanium"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 550 G2",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 550 GS",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 650 G1",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 650 G2",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 650 P2",
+        "power":650,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 750 B1",
+        "power":750,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 750 B2",
+        "power":750,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 750 G1",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 750 G2",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 750 P2",
+        "power":750,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 750 T2",
+        "power":750,
+        "rate":"80 Plus Titanium"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 850 B2",
+        "power":850,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA Supernova 850 G2L",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 850 G3",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 850 GS",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 850 P2",
+        "power":850,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA 850 T2",
+        "power":850,
+        "rate":"80 Plus Titanium"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA G1",
+        "power":1000,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA G1",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA G2",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA G2L",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA G2L 80 PLUS Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA G3",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA G3",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA G3",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA GQ",
+        "power":1000,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA GQ",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA GQ",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA GQ",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA GS 550",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA P2",
+        "power":1200,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA P2",
+        "power":1600,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA T2",
+        "power":1600,
+        "rate":"80 Plus Titanium"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA T2",
+        "power":1000,
+        "rate":"80 Plus Titanium"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA SuperNOVA T2",
+        "power":850,
+        "rate":"80 Plus Titanium"
+    },
+    {
+        "manufacturer":"EVGA",
+        "model":"EVGA W1",
+        "power":600,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Fractal Design",
+        "model":"Fractal Design Ion SFX",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Fractal Design",
+        "model":"Fractal Design Ion SFX",
+        "power":500,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Fractal Design",
+        "model":"Fractal Design Ion+ Platinum",
+        "power":660,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Fractal Design",
+        "model":"Fractal Design Ion+ Platinum",
+        "power":760,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Fractal Design",
+        "model":"Fractal Design Ion+ Platinum",
+        "power":560,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Fractal Design",
+        "model":"Fractal Design Ion+ Platinum",
+        "power":860,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Gigabyte",
+        "model":"Gigabyte Aorus P750W",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Gigabyte",
+        "model":"Gigabyte Aorus P850W",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Gigabyte",
+        "model":"Gigabyte B700H 80 PLUS Bronze",
+        "power":700,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Gigabyte",
+        "model":"Gigabyte G750H 80 PLUS Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Gigabyte",
+        "model":"Gigabyte P450B",
+        "power":450,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Gigabyte",
+        "model":"Gigabyte P550B",
+        "power":550,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Gigabyte",
+        "model":"Gigabyte P850GM",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Gigabyte",
+        "model":"Gigabyte PB500",
+        "power":500,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Gigabyte",
+        "model":"Gigabyte PW400",
+        "power":400,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Gigabyte",
+        "model":"Gigabyte UD1000GM PG5",
+        "power":1000,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Gigabyte",
+        "model":"Gigabyte XP1200M",
+        "power":1200,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Impactics",
+        "model":"Impactics 65 Watt AC-DC Adapter f\u00fcr D1NU-Serie",
+        "power":65,
+        "rate":null
+    },
+    {
+        "manufacturer":"Impactics",
+        "model":"Impactics 84 Watt AC-DC Adapter inkl. 130 Watt Wandlerplatine",
+        "power":84,
+        "rate":null
+    },
+    {
+        "manufacturer":"IN WIN",
+        "model":"IN WIN Classic C750 80Plus Platinum",
+        "power":750,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"IN WIN",
+        "model":"IN WIN Classic C900 80Plus Platinum",
+        "power":900,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"IN WIN",
+        "model":"IN WIN GreenMe",
+        "power":750,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"IN WIN",
+        "model":"IN WIN GreenMe",
+        "power":550,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"IN WIN",
+        "model":"IN WIN GreenMe",
+        "power":650,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"IN WIN",
+        "model":"IN WIN Power Man IP-P1K0BK7-2",
+        "power":1000,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"IN WIN",
+        "model":"IN WIN Power Man IP-P1K2BK7-2",
+        "power":1200,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"IN WIN",
+        "model":"InWin DESERT FOX Commander III 80 PLUS Gold",
+        "power":600,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"InWin",
+        "model":"InWin IP-AD180-2 H 80 Plus Bronze",
+        "power":180,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"IN WIN",
+        "model":"InWin Power Man IP-S550HQ3-2, 80 PLUS Bronze",
+        "power":550,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"IN WIN",
+        "model":"InWin Power Man IP-S650HQ3-2, 80 PLUS Bronze",
+        "power":650,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Classic Power 80 PLUS Bronze",
+        "power":700,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Classic Power 80 PLUS Bronze",
+        "power":600,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Classic Power 80 PLUS Bronze",
+        "power":500,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Classic Power 80 PLUS Bronze",
+        "power":400,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Continuum 80 PLUS Platinum",
+        "power":1200,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Continuum 80 PLUS Platinum",
+        "power":1050,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Continuum 80 PLUS Platinum",
+        "power":1500,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Continuum 80 PLUS Platinum",
+        "power":850,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Continuum 80 PLUS Platinum",
+        "power":1050,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Continuum 80 PLUS Platinum",
+        "power":1200,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Core 80 PLUS",
+        "power":400,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Core 80 PLUS",
+        "power":500,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Core 80 PLUS",
+        "power":300,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Core 80 PLUS",
+        "power":600,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Core 80 PLUS",
+        "power":700,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Core 80 PLUS",
+        "power":1000,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Core 80 PLUS",
+        "power":850,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Core RGB 80 PLUS",
+        "power":500,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Core S Series 80 PLUS",
+        "power":700,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Core S Series 80 PLUS",
+        "power":600,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Core S Series 80 PLUS",
+        "power":500,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Enclave 80 PLUS Gold",
+        "power":600,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Enclave 80 PLUS Gold",
+        "power":700,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink KL-1000M",
+        "power":1000,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink KL-400 80 PLUS Bronze 400 Watt",
+        "power":400,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink KL-500",
+        "power":500,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink KL-500M",
+        "power":500,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink KL-600",
+        "power":600,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink KL-600M",
+        "power":600,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink KL-700",
+        "power":700,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink KL-700M",
+        "power":700,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink KL-850M",
+        "power":850,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Modular Power 80 PLUS Bronze",
+        "power":600,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Modular Power 80 PLUS Bronze",
+        "power":700,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Modular Power 80 PLUS Bronze",
+        "power":500,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink Modular Power 80 PLUS Bronze",
+        "power":850,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Kolink",
+        "model":"Kolink SFX-450",
+        "power":450,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Lian Li",
+        "model":"Lian Li PE-550B SFX-L",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Lian Li",
+        "model":"Lian Li PE-750B SFX-L",
+        "power":750,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Lian Li",
+        "model":"Lian Li SP750",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Lian Li",
+        "model":"Lian Li SP750",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Lian Li",
+        "model":"Lian Li SP850",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Lian Li",
+        "model":"Lian Li SP850",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"MSI",
+        "model":"MSI MEG Ai1300P PCIe5",
+        "power":1300,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"MSI",
+        "model":"MSI MPG A1000G PCIe5",
+        "power":1000,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"MSI",
+        "model":"MSI MPG A850G PCIe5",
+        "power":850,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"NZXT",
+        "model":"NZXT E500 Modular",
+        "power":500,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"NZXT",
+        "model":"NZXT E650 Modular",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"NZXT",
+        "model":"NZXT E850 Modular",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"PHANTEKS",
+        "model":"PHANTEKS AMP 80 PLUS Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"PHANTEKS",
+        "model":"PHANTEKS AMP 80 PLUS Gold",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"PHANTEKS",
+        "model":"PHANTEKS AMP 80 PLUS Gold",
+        "power":1000,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"PHANTEKS",
+        "model":"PHANTEKS Revolt Pro 80 PLUS Gold",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"PHANTEKS",
+        "model":"PHANTEKS Revolt Pro 80 PLUS Gold",
+        "power":1000,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"PHANTEKS",
+        "model":"PHANTEKS Revolt SFX 80 PLUS Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"PHANTEKS",
+        "model":"PHANTEKS Revolt SFX 80 PLUS Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"PHANTEKS",
+        "model":"PHANTEKS Revolt SFX 80 PLUS Platinum",
+        "power":750,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"PHANTEKS",
+        "model":"PHANTEKS Revolt X 80 PLUS Platinum",
+        "power":1000,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"PHANTEKS",
+        "model":"PHANTEKS Revolt X 80 PLUS Platinum",
+        "power":1200,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"kein Hersteller",
+        "model":"Phobya externes",
+        "power":70,
+        "rate":null
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic CONNECT 750 Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Eco 80 PLUS Bronze",
+        "power":430,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic FOCUS 650 GOLD",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic FOCUS 750 GOLD",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus 80 PLUS Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus 80 PLUS Gold",
+        "power":450,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus 80 PLUS Platinum",
+        "power":650,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus GX 80 PLUS Gold",
+        "power":1000,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus Plus",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus Plus Gold",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus Plus Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus Plus Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus Plus Gold",
+        "power":1000,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus Plus PCGH Edition",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus Plus Platinum",
+        "power":550,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus PX 80 PLUS Platinum",
+        "power":550,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus PX 80 PLUS Platinum",
+        "power":850,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus PX 80 Plus Platinum 650 Watt",
+        "power":650,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus SGX 80 PLUS Gold SFX",
+        "power":450,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus SGX 80 PLUS Gold SFX",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus SGX 80 PLUS Gold SFX-L",
+        "power":500,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus+",
+        "power":650,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus+",
+        "power":750,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Focus+",
+        "power":850,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic G-360",
+        "power":360,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic G-450",
+        "power":450,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic G-550",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic G-Series",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic G-Series",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic G-Series",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic G-Series",
+        "power":450,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic G-Series",
+        "power":360,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic G-Series",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic G12 80 PLUS Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic G12 80 PLUS Gold",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic G12 80 PLUS Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic G12-GC-550 Gold",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic G12-GC-650 Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic M12II 850",
+        "power":850,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic M12II EVO 620",
+        "power":620,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic M12II Evo 80 PLUS Bronze",
+        "power":520,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic M12II Evo, AM2 80 PLUS Bronze",
+        "power":620,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic M12II-750 EVO",
+        "power":750,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic P-Series",
+        "power":860,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic P-Series",
+        "power":520,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic P-Series",
+        "power":760,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic P-Series",
+        "power":660,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic P-Series",
+        "power":1050,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Platinum 1000",
+        "power":1000,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Platinum 460 Fanless",
+        "power":460,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Platinum 520 Fanless",
+        "power":520,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic PLATINUM 660",
+        "power":660,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Platinum 760",
+        "power":760,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic PLATINUM 860",
+        "power":860,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime",
+        "power":850,
+        "rate":"80 Plus Titanium"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime",
+        "power":650,
+        "rate":"80 Plus Titanium"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime",
+        "power":750,
+        "rate":"80 Plus Titanium"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime",
+        "power":550,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime",
+        "power":750,
+        "rate":"80 Plus Titanium"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime",
+        "power":850,
+        "rate":"80 Plus Titanium"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime",
+        "power":1000,
+        "rate":"80 Plus Titanium"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime",
+        "power":1000,
+        "rate":"80 Plus Titanium"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic PRIME 1200 PLATINUM",
+        "power":1000,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic PRIME 1200 W Gold",
+        "power":1200,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic PRIME 750 GOLD",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime 80 PLUS Gold",
+        "power":1300,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime 80 PLUS Platinum",
+        "power":1300,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime Fanless 80 PLUS Titanium",
+        "power":600,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime Fanless PX",
+        "power":450,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime Fanless PX",
+        "power":500,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime Fanless TX",
+        "power":700,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic PRIME Fanless TX-600",
+        "power":600,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime GX 80 PLUS Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime PX 80 PLUS Platinum",
+        "power":1000,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime Snow Silent 80 PLUS Gold",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime Snow Silent 80 PLUS Platinum",
+        "power":650,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime Snow Silent 80 PLUS Titanium",
+        "power":750,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime TX 80 PLUS Titanium",
+        "power":650,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime TX 80 PLUS Titanium",
+        "power":850,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime Ultra",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime Ultra 80 PLUS Gold",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime Ultra 80 PLUS Gold",
+        "power":1000,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime Ultra 80 PLUS Platinum",
+        "power":850,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime Ultra 80 PLUS Platinum",
+        "power":750,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Prime Ultra 80 PLUS Platinum",
+        "power":1000,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic PRIME ULTRA 850 GOLD",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic S12G",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic S12G-750",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic S12II",
+        "power":430,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic S12II 430",
+        "power":430,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic S12II 620",
+        "power":620,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic S12II, GB 80 PLUS Bronze",
+        "power":520,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic S12II, GB 80 PLUS Bronze",
+        "power":620,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic S12III 80 PLUS Bronze",
+        "power":550,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic S12III 80 PLUS Bronze",
+        "power":500,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic S12III 80 PLUS Bronze",
+        "power":650,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic Snow Silent",
+        "power":750,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic SS-350ES 80 PLUS Bronze, bulk",
+        "power":350,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic SS-400ES",
+        "power":400,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic X-1050",
+        "power":1050,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic X-1250",
+        "power":1250,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic X-650",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic X-850",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic X-Series",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic X-Series",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Seasonic",
+        "model":"Seasonic X-Series",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Silentmaxx",
+        "model":"Silentmaxx Fanless II",
+        "power":500,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone DA850-G",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone externes f\u00fcr Mini-STX Systeme 19V",
+        "power":120,
+        "rate":null
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone NJ700 80 PLUS Titanium",
+        "power":700,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone SST-DA1650-G Decathalon Series 80 PLUS Gold",
+        "power":1650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ET500-ARGB",
+        "power":500,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ET550-B v1.2 ATX",
+        "power":550,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone SST-ET650-B v1.4 Strider Essential Series 80 PLUS Bronze",
+        "power":650,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone SST-ET750-B v1.1 Strider Essential Series 80 PLUS Bronze",
+        "power":750,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone SST-EX500-B Extreme SFX",
+        "power":500,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone SST-FX350-G Flex Series 80 PLUS Gold",
+        "power":350,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone SST-FX600-PT FX600 Platinum",
+        "power":600,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-GM1000-2UG V2 redundantes 2HE-",
+        "power":1000,
+        "rate":null
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-GM400-S Gemini Series redundantes",
+        "power":400,
+        "rate":"80 PLUS Silver"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-GM500-G Gemini Series redundantes",
+        "power":500,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-GM600-2UG - 2x 600 Watt",
+        "power":600,
+        "rate":null
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-GM600-2UG V2 redundantes 2HE-",
+        "power":600,
+        "rate":null
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-GM600-G Gemini Series redundantes",
+        "power":600,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-GM800-2UG - 2x 800 Watt",
+        "power":800,
+        "rate":null
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-GM800-2UG V2 redundantes 2HE-",
+        "power":800,
+        "rate":null
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone SST-HA850R-PM - Cybenetics Platinum",
+        "power":850,
+        "rate":null
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-NJ450-SXL Nightjar-Series",
+        "power":450,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-NJ520 Nightjar-Series",
+        "power":520,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST1000-G Strider Evolution v2.0 Gold Series",
+        "power":1000,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST1000-P Strider",
+        "power":1000,
+        "rate":"80 Plus Silver"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST1000-PT Strider 80 PLUS Platinum",
+        "power":1000,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone SST-ST1000-PTS Strider Platinum Series 80 PLUS Platinum",
+        "power":1000,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST1100-TI Strider 80 PLUS Titanium modular - 1.100 Watt",
+        "power":1100,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST1200-G Strider Evolution Gold Series",
+        "power":1200,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST1200-PT Strider 80 PLUS Platinum",
+        "power":1200,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone SST-ST1200-PTS Strider Platinum Series 80 PLUS Platinum",
+        "power":1200,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST1300-TI Strider 80 PLUS Titanium modular - 1.300 Watt",
+        "power":1300,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST1300-TI v 2.0 Strider 80 PLUS Titanium",
+        "power":1300,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST1500-GS Strider Gold Series vollmodular",
+        "power":1500,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST1500-TI Strider 80 PLUS Titanium modular",
+        "power":1500,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST1500-TI v1.1",
+        "power":1500,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST30SF V2.0 Strider SFX Bronze",
+        "power":300,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST40F-ES230 Strider Essential Series",
+        "power":400,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST40F-ESB Strider Essential Series Bronze",
+        "power":400,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST45SF V3.0 80 PLUS Bronze SFX",
+        "power":450,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST45SF-G V2.0 Strider Serie SFX Gold",
+        "power":450,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST50F-ES230 v2.0 Strider Essential Series",
+        "power":500,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST50F-ESB Strider Essential Series Bronze",
+        "power":500,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST50F-ESG Strider Essential Series Gold",
+        "power":500,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST50F-PB Strider Plus Bronze modular",
+        "power":500,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST55F-G V2.0 Strider Gold Series",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone SST-ST55F-PB Strider Plus Series 80 PLUS Bronze",
+        "power":550,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST55F-PT Strider 80 PLUS Platinum",
+        "power":550,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST55GF",
+        "power":550,
+        "rate":null
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST60F-ES230 Strider Essential Series",
+        "power":600,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST60F-ESB Strider Essential Series Bronze",
+        "power":600,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST60F-ESG Strider Essential Series Gold",
+        "power":600,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST60F-PB modular, Strider 80 PLUS Bronze",
+        "power":600,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST60F-TI Strider 80 PLUS Titanium modular",
+        "power":600,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone SST-ST65F-ES230 Strider Essential Series 80 PLUS",
+        "power":650,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST65F-G Strider Gold Series",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone SST-ST65F-GS v 1.1 Strider Gold S Series 80 PLUS Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone SST-ST65F-PB Strider Plus Series 80 PLUS Bronze",
+        "power":650,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST65F-PT Strider 80 PLUS Platinum",
+        "power":650,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST70F-ES230 Strider Essential Series",
+        "power":700,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST70F-ESB Strider Essential Series Bronze",
+        "power":700,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST70F-ESG Strider Essential Series Gold",
+        "power":700,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST70F-PB modular, Strider 80 PLUS Bronze",
+        "power":700,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST70F-TI Strider 80 PLUS Titanium modular",
+        "power":700,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST75F-GS Strider Gold Series",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST75F-GS v 3.1 Strider",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST75F-P Strider Plus",
+        "power":750,
+        "rate":"80 PLUS Silver"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone SST-ST75F-PB Strider Plus Series 80 PLUS Bronze",
+        "power":750,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST75F-PT Strider 80 PLUS Platinum",
+        "power":750,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST80F-TI Strider 80 PLUS Titanium modular",
+        "power":800,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST85F-GS Strider Gold Series",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST85F-P Strider Plus",
+        "power":850,
+        "rate":"80 Plus Silver"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-ST85F-PT Strider 80 PLUS Platinum",
+        "power":850,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-SX300-B SFX",
+        "power":300,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone SST-SX450-B SFX Series",
+        "power":450,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-SX500-G SFX 80 PLUS Gold",
+        "power":500,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-SX500-G v1.1 SFX",
+        "power":500,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-SX500-LG v2.1 SFX-L",
+        "power":500,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-SX550 SFX 80 PLUS Gold",
+        "power":550,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-SX650-G SFX 80 PLUS Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-SX700-G v1.1 SFX",
+        "power":700,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-SX700-LPT SFX-L 80 PLUS Platinum",
+        "power":700,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-SX700-LPT v1.1 SFX-L",
+        "power":700,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-SX700-PT SFX",
+        "power":700,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone SST-SX750-G 80 PLUS Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-SX750-PT V.1.1 SFX",
+        "power":750,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-TX300 TFX, 80 PLUS Bronze",
+        "power":300,
+        "rate":"80 PLUS Bronze"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone SST-TX500-G TFX",
+        "power":500,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone SST-TX700-G TFX",
+        "power":700,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"SilverStone ST500P",
+        "power":500,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone ST600P",
+        "power":600,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Silverstone",
+        "model":"Silverstone ST700P",
+        "power":700,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"Streacom",
+        "model":"Streacom ST-NANO120",
+        "power":120,
+        "rate":null
+    },
+    {
+        "manufacturer":"Streacom",
+        "model":"Streacom ST-NANO150",
+        "power":150,
+        "rate":null
+    },
+    {
+        "manufacturer":"Streacom",
+        "model":"Streacom ST-NANO160",
+        "power":160,
+        "rate":null
+    },
+    {
+        "manufacturer":"Streacom",
+        "model":"Streacom ST-NANO90 HTPC-",
+        "power":90,
+        "rate":null
+    },
+    {
+        "manufacturer":"Streacom",
+        "model":"Streacom ZeroFlex 240",
+        "power":240,
+        "rate":null
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Golden Green HX",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Golden Green HX",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Golden Green HX",
+        "power":350,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Golden Silent",
+        "power":500,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex",
+        "power":1300,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex",
+        "power":1000,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex",
+        "power":1000,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex",
+        "power":1200,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex",
+        "power":1000,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex",
+        "power":850,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex",
+        "power":750,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex",
+        "power":850,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex",
+        "power":1000,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex",
+        "power":550,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex",
+        "power":550,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex",
+        "power":750,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex 80 PLUS Gold",
+        "power":1600,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex 80 PLUS Platinum",
+        "power":1200,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex 80 PLUS Platinum",
+        "power":1600,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex 80 PLUS Platinum 8Pack Edt.",
+        "power":2000,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex 80 PLUS Titanium",
+        "power":750,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex 80 PLUS Titanium",
+        "power":1000,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex 80 PLUS Titanium",
+        "power":850,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex 80 PLUS Titanium",
+        "power":1600,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex II",
+        "power":1000,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex II",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex II",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex II 80 PLUS Gold",
+        "power":1200,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex II 80 PLUS Gold",
+        "power":1000,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex II 80 PLUS Gold",
+        "power":1200,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex Platinum Special Edition",
+        "power":1000,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Super Flower",
+        "model":"Super Flower Leadex Platinum Special Edition 80 PLUS Platin",
+        "power":1200,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Berlin",
+        "power":630,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Cologne",
+        "power":730,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Frankfurt",
+        "power":830,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Hamburg",
+        "power":530,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake London",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Madrid",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Munich",
+        "power":430,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Paris",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Rome",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Smart Pro RGB 80Plus Bronze modular",
+        "power":750,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Smart Pro RGB 80Plus Bronze modular",
+        "power":650,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Smart Pro RGB 80Plus Bronze modular",
+        "power":850,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Smart SE",
+        "power":630,
+        "rate":null
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Smart SE",
+        "power":530,
+        "rate":null
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Toughpower DPS G 80 PLUS Platinum",
+        "power":1200,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Toughpower DPS G RGB 80Plus Gold",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Toughpower DPS G RGB 80Plus Gold",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Toughpower DPS G RGB 80Plus Gold",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Toughpower GF1 A-RGB 80 Plus Gold",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Toughpower GF1 A-RGB 80 Plus Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Toughpower GF1 A-RGB 80 Plus Gold",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Toughpower Grand RGB 80 PLUS Gold modular",
+        "power":650,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Toughpower Grand RGB 80 PLUS Gold modular",
+        "power":850,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Toughpower Grand RGB 80 PLUS Gold modular",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Toughpower iRGB 80 PLUS Platinum",
+        "power":1200,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Toughpower iRGB 80 PLUS Platinum",
+        "power":1050,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Toughpower iRGB 80 PLUS Titanium",
+        "power":1250,
+        "rate":"80 PLUS Titanium"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Toughpower PF1 A-RGB 80 Plus Platinum",
+        "power":850,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Toughpower PF1 A-RGB 80 Plus Platinum",
+        "power":1200,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake Toughpower PF1 A-RGB 80 Plus Platinum",
+        "power":1050,
+        "rate":"80 PLUS Platinum"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake TR2 S",
+        "power":700,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake TR2 S",
+        "power":600,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Thermaltake",
+        "model":"Thermaltake TR2 S 80 PLUS",
+        "power":500,
+        "rate":"80 PLUS"
+    },
+    {
+        "manufacturer":"XFX",
+        "model":"XFX Black Edition",
+        "power":1050,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"XFX",
+        "model":"XFX Black Edition",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"XFX",
+        "model":"XFX Black Edition",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"XFX",
+        "model":"XFX Core Edition PRO V2",
+        "power":450,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"XFX",
+        "model":"XFX PRO1000W Black Edition Full Modular",
+        "power":1000,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"XFX",
+        "model":"XFX TS-Series  Single Rail",
+        "power":750,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"XFX",
+        "model":"XFX TS-Series  Single Rail",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"XFX",
+        "model":"XFX TS-Series  Single Rail",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"XFX",
+        "model":"XFX XT",
+        "power":600,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"XFX",
+        "model":"XFX XT",
+        "power":500,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"XFX",
+        "model":"XFX XT",
+        "power":400,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"XFX",
+        "model":"XFX XTR Series",
+        "power":550,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"XFX",
+        "model":"XFX XTS Fanless Series",
+        "power":520,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"XFX",
+        "model":"XFX XTS Fanless Series",
+        "power":460,
+        "rate":"80 Plus Platinum"
+    },
+    {
+        "manufacturer":"XFX",
+        "model":"XFX XXX Edition Pro",
+        "power":850,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Xigmatek",
+        "model":"Xigmatek Maverick",
+        "power":400,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Xilence",
+        "model":"Xilence Performance A+",
+        "power":830,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Xilence",
+        "model":"Xilence Performance A+",
+        "power":530,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Xilence",
+        "model":"Xilence Performance A+",
+        "power":730,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Xilence",
+        "model":"Xilence Performance A+",
+        "power":430,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Xilence",
+        "model":"Xilence Performance A+",
+        "power":630,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Xilence",
+        "model":"Xilence Performance C Series XP400",
+        "power":300,
+        "rate":null
+    },
+    {
+        "manufacturer":"Xilence",
+        "model":"Xilence Performance C Series XP500",
+        "power":350,
+        "rate":null
+    },
+    {
+        "manufacturer":"Xilence",
+        "model":"Xilence Performance C Series XP600",
+        "power":450,
+        "rate":null
+    },
+    {
+        "manufacturer":"Xilence",
+        "model":"Xilence Performance C Series XP700",
+        "power":550,
+        "rate":null
+    },
+    {
+        "manufacturer":"Zalman",
+        "model":"Zalman 1000EBT",
+        "power":1000,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Zalman",
+        "model":"Zalman 1200EBT 80 PLUS Gold",
+        "power":1200,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Zalman",
+        "model":"Zalman 500GVM",
+        "power":500,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Zalman",
+        "model":"Zalman 500TX",
+        "power":500,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Zalman",
+        "model":"Zalman 600GVM",
+        "power":600,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Zalman",
+        "model":"Zalman 600TX",
+        "power":600,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Zalman",
+        "model":"Zalman 650EBT",
+        "power":650,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Zalman",
+        "model":"Zalman 700GVM",
+        "power":700,
+        "rate":"80 Plus Bronze"
+    },
+    {
+        "manufacturer":"Zalman",
+        "model":"Zalman 700TX",
+        "power":700,
+        "rate":"80 Plus"
+    },
+    {
+        "manufacturer":"Zalman",
+        "model":"Zalman 750EBT 80 PLUS Gold",
+        "power":750,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Zalman",
+        "model":"Zalman 850EBT",
+        "power":850,
+        "rate":"80 Plus Gold"
+    },
+    {
+        "manufacturer":"Zalman",
+        "model":"Zalman ZM1000-EBTII 80 PLUS Gold",
+        "power":1000,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Zalman",
+        "model":"Zalman ZM1200-EBTII 80 PLUS Gold",
+        "power":1200,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Zalman",
+        "model":"Zalman ZM700-EBTII 80 PLUS Gold",
+        "power":700,
+        "rate":"80 PLUS Gold"
+    },
+    {
+        "manufacturer":"Zalman",
+        "model":"Zalman ZM800-EBTII 80 PLUS Gold",
+        "power":800,
+        "rate":"80 PLUS Gold"
+    }
+]

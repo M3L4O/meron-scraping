@@ -1,0 +1,1484 @@
+[
+    {
+        "manufacturer":"HGST",
+        "model":"HGST Deskstar NAS 0S03661",
+        "storage":"3 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"HGST",
+        "model":"HGST Deskstar NAS 0S03665",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"HGST",
+        "model":"HGST Deskstar NAS 0S03940",
+        "storage":"5 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"HGST",
+        "model":"HGST Deskstar NAS v2 0S03941",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba DT01ACA100 1TB 32MB",
+        "storage":"1 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba P300 HDWD110EZSTA 1TB 64MB",
+        "storage":"1 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"HGST",
+        "model":"HGST Ultrastar 7K4000",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"HGST",
+        "model":"HGST Ultrastar He6",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"HGST",
+        "model":"HGST Ultrastar He8",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Hitachi HGST",
+        "model":"Hitachi HGST Travelstar 5K1000",
+        "storage":"1 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Hitachi HGST",
+        "model":"Hitachi HGST Travelstar 7K1000",
+        "storage":"1 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Hitachi HGST",
+        "model":"Hitachi HGST Ultrastar 7K4000",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Archive Hard Drive ST6000AS0002 6TB 5900rpm 128MB",
+        "storage":"6 TB",
+        "rpm":5900.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Archive Hard Drive ST8000AS0002 8TB 5900rpm 128MB",
+        "storage":"8 TB",
+        "rpm":5900.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Compute Hard Drive 2 TB",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Barracuda Hard Drive",
+        "storage":"1 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Hard Drive",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Barracuda Hard Drive",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Hard Drive",
+        "storage":"3 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Barracuda Hard Drive",
+        "storage":"4 TB",
+        "rpm":5900.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Hard Drive 1 TB",
+        "storage":"1 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Hard Drive 1 TB",
+        "storage":"1 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Hard Drive 2 TB",
+        "storage":"2 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Hard Drive 3 TB",
+        "storage":"3 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Hard Drive 3 TB",
+        "storage":"3 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Hard Drive 4 TB",
+        "storage":"4 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Hard Drive 4 TB",
+        "storage":"4 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Hard Drive 5 TB",
+        "storage":"5 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Hard Drive 6 TB",
+        "storage":"6 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Hard Drive 8 TB",
+        "storage":"8 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Pro Hard Drive",
+        "storage":"4 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Pro Hard Drive",
+        "storage":"6 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Pro Hard Drive",
+        "storage":"8 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Pro Hard Drive 1 TB",
+        "storage":"1 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Pro Hard Drive 10 TB",
+        "storage":"10 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Pro Hard Drive 12 TB",
+        "storage":"12 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Pro Hard Drive 14 TB",
+        "storage":"14 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Pro Hard Drive 2 TB",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate BarraCuda Pro Hard Drive ST8000DM005",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Desktop Hard Drive ST3000DM001",
+        "storage":"3 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Desktop Hard Drive ST5000DM002",
+        "storage":"5 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Desktop Hard Drive ST6000DM001",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Enterprise Capacity ST1000NM0008",
+        "storage":"1 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Enterprise Capacity ST1000NM0055",
+        "storage":"1 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Enterprise Capacity ST1000NX0313",
+        "storage":"1 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Enterprise Capacity ST2000NM0033",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Enterprise Capacity ST2000NM0055",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Enterprise Capacity ST2000NX0253",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Enterprise Capacity ST4000NM0115",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Enterprise Capacity ST8000NM0055",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Enterprise Hard Drive",
+        "storage":"3 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Enterprise Hard Drive",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Enterprise Hard Drive",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Enterprise Hard Drive v5",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Enterprise NAS Hard Drive ST2000VN0001 2TB 7200rpm 128MB",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Enterprise NAS Hard Drive ST4000VN0001 4TB 7200rpm 128MB",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Enterprise NAS Hard Drive ST5000VN0001 5TB 7200rpm 128MB",
+        "storage":"5 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Enterprise NAS Hard Drive ST6000VN0001 6TB 7200rpm 128MB",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Enterprise NAS Hard Drive ST8000NE0001 8TB 7200rpm 128MB",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Exos 7E2 Hard Drive 2 TB",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Exos 7E8 Hard Drive 2 TB",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Exos 7E8 Hard Drive 4 TB",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Exos 7E8 Hard Drive 6 TB",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Exos 7E8 Hard Drive 8 TB",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Exos X10 Hard Drive 10 TB",
+        "storage":"10 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Exos X14 Hard Drive 12 TB",
+        "storage":"12 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Exos X16 Hard Drive 12 TB",
+        "storage":"12 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Exos X16 Hard Drive 14 TB",
+        "storage":"14 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Exos X16 Hard Drive 16 TB",
+        "storage":"16 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Exos X16 Hard Drive 18 TB",
+        "storage":"18 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate FireCuda SSHD",
+        "storage":"2 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate FireCuda SSHD 1 TB",
+        "storage":"1 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate FireCuda SSHD 1 TB",
+        "storage":"1 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate FireCuda SSHD 2 TB",
+        "storage":"2 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Hard Drive",
+        "storage":"1 TB",
+        "rpm":5.9
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Hard Drive",
+        "storage":"8 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Hard Drive",
+        "storage":"12 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Hard Drive 10 TB",
+        "storage":"10 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Hard Drive 12 TB",
+        "storage":"12 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Ironwolf Hard Drive 14 TB",
+        "storage":"14 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Hard Drive 16 TB",
+        "storage":"16 TB",
+        "rpm":5900.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Hard Drive 6 TB",
+        "storage":"6 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Hard Drive 6 TB",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Hard Drive 8 TB",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf NAS Hard Drive ST10000VN0004",
+        "storage":"10 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf NAS Hard Drive ST2000VN004",
+        "storage":"2 TB",
+        "rpm":5900.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf NAS Hard Drive ST3000VN007",
+        "storage":"3 TB",
+        "rpm":5900.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf NAS Hard Drive ST4000VN008",
+        "storage":"4 TB",
+        "rpm":5900.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf NAS Hard Drive ST6000VN0041",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Pro Hard Drive",
+        "storage":"4 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Pro Hard Drive",
+        "storage":"6 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Pro Hard Drive",
+        "storage":"8 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Pro Hard Drive",
+        "storage":"12 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Pro Hard Drive 10 TB",
+        "storage":"10 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Pro Hard Drive 12 TB",
+        "storage":"12 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Pro Hard Drive 14 TB",
+        "storage":"14 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Pro Hard Drive 16 TB",
+        "storage":"16 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Pro Hard Drive 4 TB",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Pro Hard Drive 8 TB",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Pro Hard Drive 8 TB",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Pro NAS Hard Drive ST10000NE0004 10TB 7200rpm 256MB",
+        "storage":"10 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Pro NAS Hard Drive ST2000NE0025 2TB 7200rpm 128MB",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Pro NAS Hard Drive ST6000NE0021 6TB 7200rpm 256MB",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate IronWolf Pro NAS Hard Drive ST8000NE0021 8TB 7200rpm 256MB",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Mobile Hard Drive",
+        "storage":"1 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Mobile Hard Drive",
+        "storage":"2 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate NAS Hard Drive ST2000VN000 2TB 5900rpm 64MB",
+        "storage":"2 TB",
+        "rpm":5900.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate SkyHawk Hard Drive",
+        "storage":"3 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate SkyHawk Hard Drive",
+        "storage":"10 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate SkyHawk Hard Drive 3 TB",
+        "storage":"3 TB",
+        "rpm":5900.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate SkyHawk Hard Drive 4 TB",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate SkyHawk Hard Drive 6 TB",
+        "storage":"6 TB",
+        "rpm":5.9
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Skyhawk Hard Drive 8 TB",
+        "storage":"8 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate SkyHawk Hard Drive 8 TB",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate SkyHawk Hard Drive ST1000VX005",
+        "storage":"1 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate SkyHawk Hard Drive ST2000VX008",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate SkyHawk Hard Drive ST6000VX0023",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Surveillance Hard Drive",
+        "storage":"3 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Surveillance Hard Drive ST1000VX000",
+        "storage":"1 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Surveillance Hard Drive ST1000VX003",
+        "storage":"1 TB",
+        "rpm":5900.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Surveillance Hard Drive ST2000VX000",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Surveillance Hard Drive ST4000VX000",
+        "storage":"4 TB",
+        "rpm":5900.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Surveillance Hard Drive ST8000VX0002",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Seagate",
+        "model":"Seagate Video 3.5 Hard Drive ST2000VM003",
+        "storage":"2 TB",
+        "rpm":5900.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba Cloud Hard Drive MC04ACA200E 2TB 128MB",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba Cloud Hard Drive MC04ACA300E 3TB 128MB",
+        "storage":"3 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba Enterprise MG03SCA300 3TB 64MB SAS",
+        "storage":"3 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba N300 HDWN160EZSTA 6TB 128MB",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba N300 HDWN160UZSVA 6TB 128MB Bulk",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba N300 HDWN180EZSTA 8TB 128MB",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba N300 HDWN180UZSVA 8TB 128MB Bulk",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba N300 HDWQ140EZSTA 4TB 128MB",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba N300 HDWQ140UZSVA 4TB 128MB Bulk",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba P300 1 TB",
+        "storage":"1 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba P300 2 TB",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba P300 3 TB",
+        "storage":"3 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba P300 4 TB",
+        "storage":"4 TB",
+        "rpm":5.4
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba P300 6 TB",
+        "storage":"6 TB",
+        "rpm":5.4
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba P300 HDWD120EZSTA 2TB 64MB",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba P300 HDWD130EZSTA 3TB 64MB",
+        "storage":"3 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba SATA 3G, MQ01ABD100",
+        "storage":"1 TB",
+        "rpm":5.4
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba SATA 6G, DT01ACA200, 2 TB",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba SATA 6G, DT01ACA300, 3 TB",
+        "storage":"3 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba SATA 6G, MD04ACA400",
+        "storage":"4 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba Surveillance Hard Drive MD03ACA200V 2TB 64MB",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba Surveillance Hard Drive MD03ACA300V 3TB 64MB",
+        "storage":"3 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba Surveillance Hard Drive MD03ACA400V 4TB 64MB",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba X300 HDWE140EZSTA 4TB 128MB",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba X300 HDWE150EZSTA 5TB 128MB",
+        "storage":"5 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba X300 HDWE160EZSTA 6TB 128MB",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba X300 HDWF180EZSTA 8TB 128MB",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba X300 HDWF180UZSVA 8TB 128MB Bulk",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba X300 SATA 6G, 4 TB",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Toshiba",
+        "model":"Toshiba X300 SATA 6G, 6 TB",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD AV-GP WD10EURX",
+        "storage":"1 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD AV-GP WD20EURX",
+        "storage":"2 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD AV-GP WD30EURX",
+        "storage":"3 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD AV-GP WD40EURX",
+        "storage":"4 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Black WD4004FZWX",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Black WD6001FZWX",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Blue SSHD WD40E31X",
+        "storage":"4 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Blue WD50EZRZ",
+        "storage":"5 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Gold WD4002FYYZ",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Gold WD6002FRYZ",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Gold WD8002FRYZ",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Purple NV WD4NPURX",
+        "storage":"4 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Purple NV WD6NPURX",
+        "storage":"6 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Purple WD10PURX",
+        "storage":"1 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Purple WD20PURX",
+        "storage":"2 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Purple WD30PURX",
+        "storage":"3 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Purple WD40PURX",
+        "storage":"4 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Purple WD50PURX",
+        "storage":"5 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Purple WD60PURX",
+        "storage":"6 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Purple WD80PUZX",
+        "storage":"8 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD RE WD1004FBYZ",
+        "storage":"1 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD RE WD5001FSYZ",
+        "storage":"5 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD RE+ WD5005FRPZ",
+        "storage":"5 TB",
+        "rpm":5760.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD RE+ WD6005FRPZ",
+        "storage":"6 TB",
+        "rpm":5760.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Red Pro WD4002FFWX",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Red Pro WD6002FFWX",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Red Pro WD8001FFWX",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Red WD30EFRX",
+        "storage":"3 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"WD Red WD80EFZX",
+        "storage":"8 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Blue Mobile 1 TB",
+        "storage":"1 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Blue Mobile 2 TB",
+        "storage":"2 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Black 1 TB",
+        "storage":"1 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Black 2 TB",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Black 2,5 Zoll",
+        "storage":"1 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Black 4 TB",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Black 6 TB",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Blue",
+        "storage":"6 TB",
+        "rpm":5.4
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Blue 1 TB",
+        "storage":"1 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Blue 1 TB",
+        "storage":"1 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Blue 2 TB",
+        "storage":"2 TB",
+        "rpm":5.4
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Blue 2 TB",
+        "storage":"2 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Blue 2,5 Zoll",
+        "storage":"1 TB",
+        "rpm":5.4
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Blue 3 TB",
+        "storage":"3 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Blue 4 TB",
+        "storage":"4 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Blue 6 TB",
+        "storage":"6 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Gold 1 TB",
+        "storage":"1 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Gold 10 TB",
+        "storage":"10 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Gold 12 TB",
+        "storage":"12 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Gold 14 TB",
+        "storage":"14 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Gold 16 TB",
+        "storage":"16 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Gold 2 TB",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Gold 4 TB",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Gold 6 TB",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Gold 8 TB",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Gold, Intellipower",
+        "storage":"8 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Gold, Intellipower",
+        "storage":"10 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Purple 8 TB",
+        "storage":"8 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Purple, Intellipower",
+        "storage":"10 TB",
+        "rpm":5.4
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital RE",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red 1 TB",
+        "storage":"1 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red 1 TB",
+        "storage":"1 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red 10 TB",
+        "storage":"10 TB",
+        "rpm":5.4
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red 10 TB",
+        "storage":"10 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red 12 TB",
+        "storage":"12 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red 14 TB",
+        "storage":"14 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red 2 TB",
+        "storage":"2 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red 2 TB",
+        "storage":"2 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red 3 TB",
+        "storage":"3 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red 4 TB",
+        "storage":"4 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red 4 TB",
+        "storage":"4 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red 6 TB",
+        "storage":"6 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red 8 TB",
+        "storage":"8 TB",
+        "rpm":5400.0
+    },
+    {
+        "manufacturer":null,
+        "model":"Page not found",
+        "storage":null,
+        "rpm":null
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Plus 10 TB",
+        "storage":"10 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Plus 12 TB",
+        "storage":"12 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Plus 14 TB",
+        "storage":"14 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Plus 2 TB",
+        "storage":"2 TB",
+        "rpm":5.4
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Plus 3 TB",
+        "storage":"3 TB",
+        "rpm":5.4
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Plus 4 TB",
+        "storage":"4 TB",
+        "rpm":5.4
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Plus 6 TB",
+        "storage":"6 TB",
+        "rpm":5.64
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Plus 8 TB",
+        "storage":"8 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Pro 10 TB",
+        "storage":"10 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Pro 10 TB",
+        "storage":"10 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Pro 12 TB",
+        "storage":"12 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Pro 14 TB",
+        "storage":"14 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Pro 16 TB",
+        "storage":"16 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Pro 18 TB",
+        "storage":"18 TB",
+        "rpm":7.2
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Pro 2 TB",
+        "storage":"2 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Pro 4 TB",
+        "storage":"4 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Pro 6 TB",
+        "storage":"6 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red Pro 8 TB",
+        "storage":"8 TB",
+        "rpm":7200.0
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital Red, Intellipower",
+        "storage":"6 TB",
+        "rpm":5.4
+    },
+    {
+        "manufacturer":"Western Digital",
+        "model":"Western Digital SE",
+        "storage":"5 TB",
+        "rpm":7200.0
+    }
+]
