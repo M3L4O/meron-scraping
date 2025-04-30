@@ -149,14 +149,11 @@ Os arquivos limpos e padronizados estão no diretório `data/`, estruturados em 
 
 - `seleniumbase`
 - `beautifulsoup4`
-- `numpy`
 - `tqdm`
-- `requests`
-- `pandas`
 
 Para instalar tudo de uma vez:
 ```bash
-pip install seleniumbase beautifulsoup4 numpy tqdm requests pandas
+pip install -r requirements.txt
 ```
 
 ---
